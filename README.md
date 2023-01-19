@@ -1,7 +1,7 @@
 
 👩🏻‍💻 Pronouns: She/Her
 💼 I’m currently working as a Software Developer at Finexus.
-🎒 currently am also taking traning fron accio job.
+🎒 currently am  taking traning fron accio job.
 🧭 I love exploring and working both in frontend and backend.
 🎭 I love speaking at events and connecting with people.
 
